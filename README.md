@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/7a280f7a-e705-42f6-9fa6-f5840c2a4e73/thumbnail" >
+</p>
 <!--
 **ctrlCVcoder/ctrlCVcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
