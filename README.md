@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/7a280f7a-e705-42f6-9fa6-f5840c2a4e73/thumbnail" >
 </p>
-<h2>✨ If the code throws errors and my patience starts to shed— <br>
+<h2>✨ If the code throws errors and my patience starts to shed — <br>
 I simply blame the bug I chased, not the nap I took instead.✨<br>
 Meow.</h2>
 <!--
