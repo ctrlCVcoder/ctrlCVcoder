@@ -2,7 +2,9 @@
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/7a280f7a-e705-42f6-9fa6-f5840c2a4e73/thumbnail" >
 </p>
-###If the code throws errors and my patience starts to shed— I simply blame the bug I chased, not the nap I took instead. Meow.###
+### If the code throws errors and my patience starts to shed—  ###
+### I simply blame the bug I chased, not the nap I took instead.  ###
+### Meow. ###
 <!--
 **ctrlCVcoder/ctrlCVcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
